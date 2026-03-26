@@ -10,7 +10,7 @@
 [![Founded](https://img.shields.io/badge/Founded-2025-blue?style=for-the-badge&color=000000)](#company-overview)
 [![Location](https://img.shields.io/badge/HQ-Bangalore,_India-orange?style=for-the-badge&color=000000)](#contact)
 
-**[Visit Website](https://nxtstudio.in)
+**[Visit Website](https://nxtstudio.in)**
 
 </div>
 

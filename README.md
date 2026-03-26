@@ -63,8 +63,8 @@ Our cross-disciplinary team brings together decades of expertise in design, deve
 
 <div align="center">
   
-| By the Numbers | Recent Recognition |
-| :--- | :--- |
+| By the Numbers
+| :--- |
 | **2+** Projects Delivered 
 | **2+** Industries Served 
 | **98%** Client Satisfaction 
